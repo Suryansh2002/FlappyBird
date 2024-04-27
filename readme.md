@@ -13,7 +13,7 @@ So just made this.
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/Suryansh2002/FlappyBird.git`
-2. Open `index.html` in your web browser.
+2. Open `index.html` with VSCode Live Server
 
 ## Usage
 
