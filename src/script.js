@@ -21,8 +21,9 @@ class PipeManager{
         }
         if (["h-2/3"].includes(height)){
             this.lastBig = true;
+        }else{
+            this.lastBig = false;
         }
-        this.lastBig = false;
         
         const id = Date.now().toString(36);
         let pipe = document.createElement("div");
